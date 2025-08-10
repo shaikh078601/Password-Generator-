@@ -1,2 +1,2 @@
 # Password-Generator-
-This project involves creating a comprehensive job application form to streamline the hiring process. It collects essential candidate details such as personal information, education, experience, and references. The project also includes an analysis of how structured forms improve recruitment efficiency and candidate evaluation.
+The Password Generator project is a tool designed to create strong, secure, and random passwords based on user-defined criteria such as length and character types (uppercase, lowercase, numbers, and symbols). 
